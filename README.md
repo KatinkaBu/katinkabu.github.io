@@ -1,4 +1,4 @@
-**CV:** [Download PDF](cv/Katharina_Burchin_CV_EN_Cloud&DevOps.pdf)  
+**CV:** [Download PDF](cv/main_CV_EN_Katharina_Burchin_Cloud&DevOps_public.pdf)  
 **LinkedIn:** https://www.linkedin.com/in/katharinaburchin  
 **GitHub:** https://github.com/katinkabu
 
