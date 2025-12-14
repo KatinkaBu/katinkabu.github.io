@@ -9,7 +9,9 @@ Over the last years I’ve been:
 - doing a **320-hours full-time DevOps/Cloud internship** (WeBeet) with real-world infrastructure and observability tasks
 - bringing in experience from **creative projects, organizing work, documentation and support-focused roles**
 
-I enjoy clear systems, transparent workflows, good documentation and equally clear communication.
+**CV:** [Download PDF](cv/Katharina_Burchin_CV_Cloud_DevOps.pdf)  
+**LinkedIn:** https://www.linkedin.com/in/katharinaburchin  
+**GitHub:** https://github.com/katinkabu
 
 ---
 
@@ -106,7 +108,7 @@ I enjoy clear systems, transparent workflows, good documentation and equally cle
 - Async & remote collaboration
 
 ---
-**Previous Experience – Transferable Skills**
+## Previous Experience – Transferable Skills
 
 - **Artist & Music Video Director**  
   Planning, organizing and executing shoots, working with equipment, editing in DaVinci Resolve and Adobe Premiere, managing timelines and budgets.
