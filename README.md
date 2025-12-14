@@ -1,76 +1,121 @@
-# Katharina Burchin – Cloud & DevOps
+# About
 
-_Head in the clouds, hands on the keyboard. I build and support cloud-native systems with a calm, structured mindset._
-
----
-
-## About
-
-Hi, I’m Katharina – a career changer into Cloud & DevOps with a background in art, music and production.  
+Hi, I’m Katharina, a career changer into **Cloud & DevOps** with a background in art, music, production and care work.
 
 Over the last years I’ve been:
 
-- learning and working with **AWS, Linux, containers and CI/CD**
-- completing a **Cloud Engineering program** (Masterschool)
-- doing a **DevOps/Cloud internship** (WeBeet) with real-world infrastructure tasks
-- bringing in my experience from **creative projects, organizing, and supporting teams**
+- learning and working hands-on with **AWS, Linux basics, containerized services and CI/CD**
+- completing a **14-month full-time Cloud Engineering program** (Masterschool)
+- doing a **320-hours full-time DevOps/Cloud internship** (WeBeet) with real-world infrastructure and observability tasks
+- bringing in experience from **creative projects, organizing work, documentation and support-focused roles**
 
-I enjoy clear systems, good documentation, and helping people use tech without stress.
-
----
-
-## Tech Projects
-
-- **WeBeet Internship – Observability & Infrastructure**
-  - Worked on Docker-based services, logging/monitoring and troubleshooting
-  - Used GitHub, Docker Compose, Terraform basics, Linux, CI/CD pipelines
-
-- **GroceryMate – Cloud-Native Demo App**
-  - Small web app deployed on AWS (EC2 + RDS)
-  - Infrastructure with Terraform, containerized with Docker
-  - Focus on: basic automation, reproducible environments, documentation
-
-- **Learning Labs & Mini-Projects**
-  - Hands-on practice with AWS networking basics (VPC, subnets, security groups)
-  - Git & GitHub workflows (branches, pull requests, code reviews in teams)
-
-_For a detailed tech CV, feel free to reach out._
+I enjoy clear systems, transparent workflows, good documentation and equally clear communication.
 
 ---
 
-## Skills
+# Tech Projects
 
-**Cloud & DevOps**
+## WeBeet Internship – Observability & Infrastructure
 
-- AWS (networking basics, EC2, RDS, IAM)
-- Docker & Docker Compose
-- CI/CD basics (GitHub Actions)
-- Linux basics (commands, navigation, SSH, logs)
-- Basic Terraform knowledge (IaC concepts)
+**DevOps / Cloud Intern (320 hours, full-time)**
 
-**Software & Scripting**
+- Worked with **Docker-based services** in a team environment
+- Designed and set up an **observability stack**:
+  - Metrics with **Prometheus**
+  - Dashboards with **Grafana**
+  - Logging with **Loki**
+- Troubleshot containerized services and runtime issues
+- Collaborated via **GitHub**:
+  - GitHub Issues for task tracking
+  - GitHub Projects (Kanban board)
+  - Pull Requests with **mandatory reviews**
+- Actively documented decisions, progress and changes directly in Issues and PRs to keep history transparent
+- CI/CD exposure via **GitHub Actions**:
+  - Read and adjusted existing YAML workflows
+  - Participated in pipeline discussions and debugging
+- Basic Infrastructure-as-Code exposure (Terraform concepts, reading and adapting configs)
 
-- Python basics (scripts, simple data handling)
+---
+
+## GroceryMate – Cloud-Native Demo Shopping-App
+
+- Small demo web app deployed on **AWS (EC2 + RDS)**
+- Infrastructure defined with **Terraform** (based on templates and guidance)
+- Containerized using **Docker**
+- Focus on:
+  - reproducible environments
+  - basic automation
+  - clean documentation
+- Final project reviewed and approved by a mentor
+
+---
+
+## Learning Labs & Mini Projects
+
+- **boot.dev CI/CD course**
+  - pipelines, automation concepts, YAML-based workflows
+- **AWS networking labs**
+  - VPCs, subnets, routing basics, security groups
+- **Git & GitHub workflows**
+  - branches, pull requests, reviews, team collaboration
+- **Cloud Music Diary (WIP)**
+  - personal cloud project combining music & cloud engineering
+  - GitHub Actions
+  - documentation-first approach
+
+---
+
+# Skills
+
+## Cloud & DevOps (Foundations)
+
+- **AWS**: EC2, RDS, IAM, VPC, subnets, security groups (hands-on)
+- **Docker & Docker Compose**: service-based setups
+- **CI/CD fundamentals**:
+  - GitHub Actions (reading, modifying, collaborating on pipelines)
+  - YAML-based workflows
+- **Linux fundamentals**:
+  - CLI, SSH, logs, processes, environment variables
+- **Infrastructure as Code (Basics)**:
+  - Terraform concepts
+  - using and adapting templates
+
+## Monitoring & Observability
+
+- **Prometheus** (metrics scraping & configuration)
+- **Grafana** (dashboard creation)
+- **Loki / Promtail** (log forwarding & log analysis)
+
+## Containers & Platform (Learning)
+
+- Containerized applications and services
+- **Kubernetes concepts (learning in progress)**:
+  - pods, services, deployments (labs & coursework)
+
+## Software & Scripting
+
+- Python basics (scripts, small tools)
+- Object-Oriented Programming fundamentals
+- Working with APIs & CLI tools
 - YAML, JSON, Markdown
-- Working with APIs and CLI tools
 
-**Collaboration & Tools**
+## Collaboration & Engineering Practices
 
-- Git & GitHub (version control, PRs, code review)
-- Jira / ticket systems
-- Slack / Discord / remote collaboration
-- Documentation & knowledge sharing
+- Git & GitHub (Issues, Projects, PRs, reviews)
+- Documentation-first mindset
+- Async & remote collaboration
 
+---
 **Previous Experience – Transferable Skills**
 
 - **Artist & Music Video Director**  
-  Planning, organizing and executing shoots, working with equipment, editing in DaVinci Resolve, managing timelines and budgets.
+  Planning, organizing and executing shoots, working with equipment, editing in DaVinci Resolve and Adobe Premiere, managing timelines and budgets.
 
 - **Musician & Organizer**  
-  Organizing events, coordinating people, managing logistics and costs, performing under pressure.
+  Organizing events, coordinating people, managing logistics and costs, performing under pressure, production and composition of music, studio setup, collaboration with other artists.
 
 - **Personal Assistance & Care Work**  
-  High responsibility, clear communication, empathy, reliability, and structured support in stressful environments.
+  High responsibility, clear communication, empathy, reliability, and structured support in stressful environments. 24/7 work-shift experience, first-aid courses. Worked with elderly and handicapped.
 
 These experiences help me stay calm, organized and human-centered in technical work.
 
@@ -78,18 +123,16 @@ These experiences help me stay calm, organized and human-centered in technical w
 
 ## Contact & Links
 
-- **GitHub:** [github.com/DEINUSERNAME](https://github.com/DEINUSERNAME)
-- **LinkedIn:** [linkedin.com/in/DEINPROFIL](https://www.linkedin.com/in/DEINPROFIL)
-- **Email:** deine.email@domain.com
+- **GitHub:** [github.com/katinkabu](https://github.com/katinkabu)
+- **LinkedIn:** [linkedin.com/in/katharinaburchin](https://www.linkedin.com/in/katharinaburchin)
+- **Email:** katharinaburchina@gmail.com
 
 ---
 
 ## Artistic Work
 
-If you’re curious about my artistic side (video, music, performance):
+If you’re curious about my artistic work (video, music, performance):
 
-👉 **[Visit my artist homepage](https://deine-kunst-seite.de)**
-
-I keep this tech site focused on Cloud & DevOps – but my creative background is a big part of how I think and work.
+**[Visit my artist homepage](https://katburrr.com)**
 
 
