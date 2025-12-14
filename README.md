@@ -1,3 +1,7 @@
+**CV:** [Download PDF](cv/Katharina_Burchin_CV_EN_Cloud&DevOps.pdf)  
+**LinkedIn:** https://www.linkedin.com/in/katharinaburchin  
+**GitHub:** https://github.com/katinkabu
+
 # About
 
 Hi, I’m Katharina, a career changer into **Cloud & DevOps** with a background in art, music, production and care work.
@@ -8,10 +12,6 @@ Over the last years I’ve been:
 - completing a **14-month full-time Cloud Engineering program** (Masterschool)
 - doing a **320-hours full-time DevOps/Cloud internship** (WeBeet) with real-world infrastructure and observability tasks
 - bringing in experience from **creative projects, organizing work, documentation and support-focused roles**
-
-**CV:** [Download PDF](cv/Katharina_Burchin_CV_Cloud_DevOps.pdf)  
-**LinkedIn:** https://www.linkedin.com/in/katharinaburchin  
-**GitHub:** https://github.com/katinkabu
 
 ---
 
