@@ -17,7 +17,7 @@ body {
 /* 2) Content-Box etwas “lesbarer” machen (optional, aber hilft) */
 /* Wrapper fast unsichtbar machen */
 .wrapper {
-  background: rgba(255, 255, 255, 0.08); /* sehr leichter Schleier */
+  background: rgba(255, 255, 255, 0.20); /* sehr leichter Schleier */
   box-shadow: none;
   border: none;
   backdrop-filter: blur(2px);
