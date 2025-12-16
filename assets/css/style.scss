@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* 1) Hintergrundbild */
+/* Hintergrundbild */
 body {
   background-image: url("/assets/img/Cloud_1.jpeg");
   background-size: cover;
@@ -15,58 +15,16 @@ body {
   line-height: 1.6;
 }
 
-/* ===============================
-   2) MILCHIGER OVERLAY ÜBER DEM BILD
-   (macht NUR das Bild heller, NICHT den Text)
-   =============================== */
-
+/* Milchiger Overlay – wirkt NUR auf das Bild */
 body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: rgba(255, 255, 255, 0.70); /*  */
-  backdrop-filter: blur(2px);            /* optional */
-  z-index: 0;
-  pointer-events: none;
+  background: rgba(255, 255, 255, 0.55); /* HIER steuerst du alles */
+  z-index: -1;
 }
 
-/* 2) GROSSER milchiger Layer über ALLEM Content */
-#.container,
-#.page-content {
-#  background-color: rgba(222, 221, 195, 0.65); /* #DEDDC3, transparenter */
-#  border-radius: 16px;
-#  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
-#  padding: 2.5rem;
-#}
-
-/* ===============================
-   3) CONTENT ÜBER DEN OVERLAY LEGEN
-   (GANZE SEITE, links + rechts!)
-   =============================== */
-
-.container,
-.page-content,
-.wrapper {
-  position: relative;
-  z-index: 1;
-}
-
-/* ===============================
-   4) LEICHTER SCHLEIER HINTER DEM CONTENT
-   (NICHT FETT, NUR LESBARKEIT)
-   =============================== */
-
-.container {
-  background: rgba(255, 255, 255, 0.50);
-  border-radius: 18px;
-  padding: 3rem;
-}
-
-/* ===============================
-   5) TYPOGRAFIE & FARBEN
-   =============================== */
-
-/* 3) Links */
+/* Links */
 a, a:visited {
   color: #465473;
 }
@@ -74,13 +32,13 @@ a:hover {
   color: #5c6a8a;
 }
 
-/* 4) Fett NICHT schwarz */
+/* Fett NICHT schwarz */
 strong, b {
   color: inherit;
   font-weight: 600;
 }
 
-/* 5) Überschriften */
+/* Überschriften */
 h1, h2, h3 {
   color: #444F66;
 }
