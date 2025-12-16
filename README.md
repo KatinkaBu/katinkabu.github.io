@@ -2,11 +2,6 @@
 **LinkedIn:**[here](https://www.linkedin.com/in/katharinaburchin)  
 **Github:**[here](https://github.com/katinkabu)
 
-<img src="/assets/img/front3.jpg"
-     alt="Profile photo"
-     width="120"
-     style="border-radius:50%; float:left; margin: 0 16px 12px 0; border: 2px solid rgba(0,0,0,0.1);" />
-
 # About
 
 Hi, I’m Katharina,
