@@ -137,6 +137,6 @@ These experiences help me stay calm, organized and human-centered in technical w
 
 If you’re curious about my artistic work (video, music, performance):
 
-**[Visit my artist homepage](https://katburrr.com)**
+**[visit my artist homepage here](https://katburrr.com)**
 
 
