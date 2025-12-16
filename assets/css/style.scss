@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+/* Content-Box milchig machen (robust, trifft mehrere Theme-Container) */
+.wrapper,
+.container,
+main,
+section {
+  background-color: rgba(222, 221, 195, 0.82) !important; /* #DEDDC3 milchig */
+  border-radius: 12px;
+}
+
 /* Hintergrundbild */
 body {
   background-image: url("/assets/img/Cloud_1.jpeg");
@@ -16,7 +25,7 @@ body {
 
 /* Content-Box */
 .wrapper {
-  background: rgba(222, 221, 195, 0.82); /* warm, milchig, sehr edel */
+  background: rgba(222, 221, 195, 0.82); /* warm weiß */
   border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
 }
