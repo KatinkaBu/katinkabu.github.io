@@ -3,57 +3,43 @@
 
 @import "{{ site.theme }}";
 
-/* Hintergrundbild aufs ganze Dokument */
+/* Hintergrundbild */
 body {
-  background-image:
-    linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),
-    url("/assets/img/Cloud_1.jpeg");
+  background-image: url("/assets/img/Cloud_1.jpeg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  color: #444F66;
+  line-height: 1.6;
 }
 
-/* 2) Content-Box etwas “lesbarer” machen (optional, aber hilft) */
-/* Wrapper fast unsichtbar machen */
+/* Content-Box */
 .wrapper {
-  background: rgba(255, 255, 255, 0.78); /* deutlich lesbarer */
-  border-radius: 12px;                   /* optional hübsch */
+  background: rgba(222, 221, 195, 0.82); /* warm, milchig, sehr edel */
+  border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
-  position: relative;
-  z-index: 1;
 }
 
-/* Milchiger “Schleier” über dem ganzen Hintergrund */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background: rgba(255, 255, 255, 0.35); /* höher = milchiger */
-  backdrop-filter: blur(2px);            /* optional */
-  z-index: 0;
-  pointer-events: none;
-}
-
-/* 3) Hässliches Blau weg: Links */
+/* Links */
 a, a:visited {
-  color: #465473; /* hier kannst du später easy ändern */
+  color: #465473;
 }
 a:hover {
   color: #DEDDC3;
 }
 
-/* 4) Hauptüberschrift / Headings dunkler/edler */
+/* Fett NICHT schwarz */
+strong, b {
+  color: inherit;
+  font-weight: 600;
+}
+
+/* Überschriften */
 h1, h2, h3 {
   color: #444F66;
 }
 
 h2 {
   margin-top: 2.5rem;
-}
-
-/* Fließtext weicher und lesbarer */
-body {
-  color: #444F66;
-  line-height: 1.6;
 }
