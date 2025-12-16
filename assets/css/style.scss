@@ -3,14 +3,15 @@
 
 @import "{{ site.theme }}";
 
-/* Hintergrundbild auf das Theme-Layout anwenden */
-.container {
+/* Hintergrundbild aufs ganze Dokument */
+body {
   background-image:
-    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+    linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
     url("/assets/img/Cloud_1.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 /* 2) Content-Box etwas “lesbarer” machen (optional, aber hilft) */
