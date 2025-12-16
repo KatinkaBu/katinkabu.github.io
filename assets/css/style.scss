@@ -6,7 +6,7 @@
 /* Hintergrundbild aufs ganze Dokument */
 body {
   background-image:
-    linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
+    linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),
     url("/assets/img/Cloud_1.jpeg");
   background-size: cover;
   background-position: center;
@@ -17,10 +17,22 @@ body {
 /* 2) Content-Box etwas “lesbarer” machen (optional, aber hilft) */
 /* Wrapper fast unsichtbar machen */
 .wrapper {
-  background: rgba(255, 255, 255, 0.20); /* sehr leichter Schleier */
-  box-shadow: none;
-  border: none;
-  backdrop-filter: blur(2px);
+  background: rgba(255, 255, 255, 0.78); /* deutlich lesbarer */
+  border-radius: 12px;                   /* optional hübsch */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  position: relative;
+  z-index: 1;
+}
+
+/* Milchiger “Schleier” über dem ganzen Hintergrund */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.35); /* höher = milchiger */
+  backdrop-filter: blur(2px);            /* optional */
+  z-index: 0;
+  pointer-events: none;
 }
 
 /* 3) Hässliches Blau weg: Links */
