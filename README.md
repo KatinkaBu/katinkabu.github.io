@@ -4,9 +4,11 @@
 
 # About
 
-Hi, I’m Katharina, a career changer into **Cloud & DevOps** with a background in art, music, production and care work.
+Hi, I’m Katharina,
 
-Over the last years I’ve been:
+a career changer into Cloud & DevOps with a background in art, music, production and care work.
+
+Over the last year and a half I’ve been:
 
 - learning and working hands-on with **AWS, Linux basics, containerized services and CI/CD**
 - completing a **14-month full-time Cloud Engineering program** (Masterschool)
