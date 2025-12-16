@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 1) Hintergrundbild + Overlay für Lesbarkeit */
+body {
+  background-image:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+    url("/assets/img/Cloud_1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* 2) Content-Box etwas “lesbarer” machen (optional, aber hilft) */
+.wrapper {
+  background: rgba(255,255,255,0.92);
+  padding: 2rem;
+  border-radius: 14px;
+}
+
+/* 3) Hässliches Blau weg: Links */
+a, a:visited {
+  color: #444F66; /* hier kannst du später easy ändern */
+}
+a:hover {
+  color: #8997A2;
+}
+
+/* 4) Hauptüberschrift / Headings dunkler/edler */
+h1, h2, h3 {
+  color: #444F66;
+}
