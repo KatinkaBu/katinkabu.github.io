@@ -3,15 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Content-Box milchig machen (robust, trifft mehrere Theme-Container) */
-.wrapper,
-.container,
-main,
-section {
-  background-color: rgba(222, 221, 195, 0.82) !important; /* #DEDDC3 milchig */
-  border-radius: 12px;
-}
-
 /* Hintergrundbild */
 body {
   background-image: url("/assets/img/Cloud_1.jpeg");
@@ -19,36 +10,30 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+
   color: #444F66;
   line-height: 1.6;
 }
 
-/* Content-Box */
-.wrapper {
-  background: rgba(222, 221, 195, 0.82); /* warm weiß */
+/* Milchige Content-Fläche (robust) */
+.wrapper,
+.container,
+main,
+section,
+.page-content,
+.markdown-body {
+  background-color: rgba(222, 221, 195, 0.82) !important; /* #DEDDC3 milchig */
   border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
 }
 
 /* Links */
-a, a:visited {
-  color: #465473;
-}
-a:hover {
-  color: #DEDDC3;
-}
+a, a:visited { color: #465473; }
+a:hover { color: #DEDDC3; }
 
 /* Fett NICHT schwarz */
-strong, b {
-  color: inherit;
-  font-weight: 600;
-}
+strong, b { color: inherit; font-weight: 600; }
 
 /* Überschriften */
-h1, h2, h3 {
-  color: #444F66;
-}
-
-h2 {
-  margin-top: 2.5rem;
-}
+h1, h2, h3 { color: #444F66; }
+h2 { margin-top: 2.5rem; }
