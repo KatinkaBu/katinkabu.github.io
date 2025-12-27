@@ -41,7 +41,7 @@ Over the last year and a half I’ve been:
 
 ---
 
-## GroceryMate – Cloud-Native Demo Shopping-App
+## GroceryMate – Cloud-Native Demo Shopping-App [here](https://github.com/KatinkaBu/AWS_grocery)
 
 - Small demo web app deployed on **AWS (EC2 + RDS)**
 - Infrastructure defined with **Terraform** (based on templates and guidance)
@@ -62,7 +62,7 @@ Over the last year and a half I’ve been:
   - VPCs, subnets, routing basics, security groups
 - **Git & GitHub workflows**
   - branches, pull requests, reviews, team collaboration
-- **Cloud Music Diary (WIP)**
+- **Cloud Music Diary [WIP](https://github.com/KatinkaBu/cloud-music-diary)**
   - personal cloud project combining music & cloud engineering
   - GitHub Actions
   - documentation-first approach
