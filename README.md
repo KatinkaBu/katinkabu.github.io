@@ -58,17 +58,22 @@ Over the last year and a half I’ve been:
 
 ## Learning Labs & Mini Projects
 
+- 🌸 **Cloud Music Diary (WIP) as an after-studies project**
+  - personal cloud project combining music & cloud engineering
+  - GitHub Actions
+  - documentation-first approach
+  - [link to project](https://github.com/KatinkaBu/cloud-music-diary)
 - **boot.dev CI/CD course as part of the internship**
   - pipelines, automation concepts, YAML-based workflows
 - **Git & GitHub workflows as part of the internship**
   - branches, pull requests, reviews, team collaboration
 - **AWS networking labs for private learning**
   - VPCs, subnets, routing basics, security groups
-- **Cloud Music Diary (WIP) as an after-studies project**
-  - personal cloud project combining music & cloud engineering
-  - GitHub Actions
-  - documentation-first approach
-  - [link to project](https://github.com/KatinkaBu/cloud-music-diary)
+
+---
+## Certificates
+
+- AWS Certified Cloud Practitioner (CLF-C02), Feb. 2nd 2026, **Certification Badge** follows
 
 ---
 
@@ -113,7 +118,7 @@ Over the last year and a half I’ve been:
 - Async & remote collaboration
 
 ---
-## Previous Experience: Transferable Skills
+## My Transferable Skills From Previous Experience: 
 
 - **Artist & Music Video Director**  
   Planning, organizing and executing shoots, working with equipment, editing in DaVinci Resolve and Adobe Premiere, managing timelines and budgets.
@@ -133,15 +138,14 @@ These experiences help me stay calm, organized and human-centered in technical w
 - **GitHub:** [github.com/katinkabu](https://github.com/katinkabu)
 - **LinkedIn:** [linkedin.com/in/katharinaburchin](https://www.linkedin.com/in/katharinaburchin)
 - **Email:** katharinaburchina@gmail.com
-- **Certification Badge** follows
 
 ---
 
 ## Artistic Work
 
-If you’re curious about my artistic work (video, music, performance):
+If you’re curious about my artistic side:
 
-**[visit my artist homepage here](https://katburrr.com)**
+**[please visit my artist homepage here](https://katburrr.com)**
 
 © Katharina Burchin | 2026 
 
