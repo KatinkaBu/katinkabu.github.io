@@ -10,9 +10,10 @@ a career changer into Cloud & DevOps with a background in art, music, production
 
 Over the last year and a half I’ve been:
 
+- completing my AWS Certified Cloud Practitioner (CLF-C02) on Feb 2nd 2026
 - learning and working hands-on with **AWS, Linux basics, containerized services and CI/CD**
-- completing a **14-month full-time Cloud Engineering program** (Masterschool)
-- doing a **320-hours full-time DevOps/Cloud internship** (WeBeet) with real-world infrastructure and observability tasks
+- completing a **14-month full-time Cloud Engineering program** (Masterschool), certificate received in Nov. 2025
+- doing a **320-hours full-time DevOps/Cloud internship** (WeBeet) with real-world infrastructure and observability tasks for a mobile housing app
 - bringing in experience from **creative projects, organizing work, documentation and support-focused roles**
 
 ---
@@ -21,7 +22,7 @@ Over the last year and a half I’ve been:
 
 ## WeBeet Internship – Observability & Infrastructure
 
-**DevOps / Cloud Intern (320 hours, full-time)**
+**DevOps / Cloud Intern (320 hours, full-time), Sep. - Nov. 2025**
 
 - Worked with **Docker-based services** in a team environment
 - Designed and set up an **observability stack**:
@@ -50,20 +51,20 @@ Over the last year and a half I’ve been:
   - reproducible environments
   - basic automation
   - clean documentation
-- Final project reviewed and approved by a mentor
+- Final project reviewed and approved by my mentor
 - [link to project](https://github.com/KatinkaBu/AWS_grocery)
 
 ---
 
 ## Learning Labs & Mini Projects
 
-- **boot.dev CI/CD course**
+- **boot.dev CI/CD course as part of the internship**
   - pipelines, automation concepts, YAML-based workflows
-- **AWS networking labs**
-  - VPCs, subnets, routing basics, security groups
-- **Git & GitHub workflows**
+- **Git & GitHub workflows as part of the internship**
   - branches, pull requests, reviews, team collaboration
-- **Cloud Music Diary (WIP)**
+- **AWS networking labs for private learning**
+  - VPCs, subnets, routing basics, security groups
+- **Cloud Music Diary (WIP) as an after-studies project**
   - personal cloud project combining music & cloud engineering
   - GitHub Actions
   - documentation-first approach
@@ -75,7 +76,7 @@ Over the last year and a half I’ve been:
 
 ## Cloud & DevOps (Foundations)
 
-- **AWS**: EC2, RDS, IAM, VPC, subnets, security groups (hands-on)
+- **AWS**: EC2, RDS, IAM, VPC, subnets, security groups 
 - **Docker & Docker Compose**: service-based setups
 - **CI/CD fundamentals**:
   - GitHub Actions (reading, modifying, collaborating on pipelines)
@@ -112,7 +113,7 @@ Over the last year and a half I’ve been:
 - Async & remote collaboration
 
 ---
-## Previous Experience – Transferable Skills
+## Previous Experience: Transferable Skills
 
 - **Artist & Music Video Director**  
   Planning, organizing and executing shoots, working with equipment, editing in DaVinci Resolve and Adobe Premiere, managing timelines and budgets.
@@ -132,6 +133,7 @@ These experiences help me stay calm, organized and human-centered in technical w
 - **GitHub:** [github.com/katinkabu](https://github.com/katinkabu)
 - **LinkedIn:** [linkedin.com/in/katharinaburchin](https://www.linkedin.com/in/katharinaburchin)
 - **Email:** katharinaburchina@gmail.com
+- **Certification Badge** follows
 
 ---
 
