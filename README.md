@@ -1,4 +1,4 @@
-**CV** [download PDF](cv/main_CV_EN_Katharina_Burchin_Cloud&DevOps_public.pdf)  
+**CV** [PDF follows]()  
 [LinkedIn](https://www.linkedin.com/in/katharinaburchin)  
 [GitHub](https://github.com/katinkabu)
 
@@ -142,5 +142,7 @@ These experiences help me stay calm, organized and human-centered in technical w
 If you’re curious about my artistic work (video, music, performance):
 
 **[visit my artist homepage here](https://katburrr.com)**
+
+© Katharina Burchin | 2026 
 
 
