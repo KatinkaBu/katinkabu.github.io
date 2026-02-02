@@ -46,6 +46,8 @@ Over the last year and a half I’ve been:
 
 ## GroceryMate – Cloud-Native Demo Shopping-App
 
+**Final project reviewed and approved by my mentor as part of the 6-months Cloud track**
+
 - Small demo web app deployed on **AWS (EC2 + RDS)**
 - Infrastructure defined with **Terraform** (based on templates and guidance)
 - Containerized using **Docker**
@@ -53,7 +55,6 @@ Over the last year and a half I’ve been:
   - reproducible environments
   - basic automation
   - clean documentation
-- Final project reviewed and approved by my mentor
 - [link to project](https://github.com/KatinkaBu/AWS_grocery)
 
 ---
