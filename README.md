@@ -11,8 +11,10 @@ a career changer into Cloud & DevOps with a background in art, music, production
 Over the last year and a half I’ve been:
 
 - completing my AWS Certified Cloud Practitioner (CLF-C02) on Feb 2nd 2026
+- working on a simple Cloud-Music-Project to further develop my skills post studies
+- contributing to a self-organized study group for daily support, sharing of knowledge & resources post studies
 - learning and working hands-on with **AWS, Linux basics, containerized services and CI/CD**
-- completing a **14-month full-time Cloud Engineering program** (Masterschool), certificate received in Nov. 2025
+- completing a **14-month full-time Software Engineering program with a focus on Cloud** (Masterschool), certificate received in Nov. 2025
 - doing a **320-hours full-time DevOps/Cloud internship** (WeBeet) with real-world infrastructure and observability tasks for a mobile housing app
 - bringing in experience from **creative projects, organizing work, documentation and support-focused roles**
 
@@ -58,13 +60,14 @@ Over the last year and a half I’ve been:
 
 ## Learning Labs & Mini Projects
 
-- 🌸 **Cloud Music Diary (WIP) as an after-studies project**
+- 🌸 **Cloud Music Diary (W.I.P.) as an after-studies project**
   - personal cloud project combining music & cloud engineering
   - GitHub Actions
   - documentation-first approach
   - [link to project](https://github.com/KatinkaBu/cloud-music-diary)
 - **boot.dev CI/CD course as part of the internship**
   - pipelines, automation concepts, YAML-based workflows
+  - [link to lab outcome](https://github.com/KatinkaBu/learn-cicd-starter)
 - **Git & GitHub workflows as part of the internship**
   - branches, pull requests, reviews, team collaboration
 - **AWS networking labs for private learning**
