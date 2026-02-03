@@ -77,7 +77,7 @@ Over the last year and a half I’ve been:
 ---
 ## Certificates
 
-- AWS Certified Cloud Practitioner (CLF-C02), Feb. 2nd 2026, **Certification Badge** follows
+- AWS Certified Cloud Practitioner (CLF-C02), Feb. 2nd 2026, **Certification Badge** [here](https://www.credly.com/badges/423991e1-36fc-4e69-9c13-a25dae7d24d5/public_url)
 
 ---
 
