@@ -1,6 +1,6 @@
-**CV** [PDF follows]()  
-[LinkedIn](https://www.linkedin.com/in/katharinaburchin)  
-[GitHub](https://github.com/katinkabu)
+**Download** [CV - PDF follows]()  
+**@** [LinkedIn](https://www.linkedin.com/in/katharinaburchin)  
+**@** [GitHub](https://github.com/katinkabu)
 
 # About
 
@@ -77,7 +77,7 @@ Over the last year and a half I’ve been:
 ---
 ## Certificates
 
-- AWS Certified Cloud Practitioner (CLF-C02), Feb. 2nd 2026, **Certification Badge** [here](https://www.credly.com/badges/423991e1-36fc-4e69-9c13-a25dae7d24d5/public_url)
+- AWS Certified Cloud Practitioner (CLF-C02), Feb. 2nd 2026, **Certification Badge** [see it here](https://www.credly.com/badges/423991e1-36fc-4e69-9c13-a25dae7d24d5/public_url)
 
 ---
 
@@ -149,7 +149,7 @@ These experiences help me stay calm, organized and human-centered in technical w
 
 If you’re curious about my artistic side:
 
-**[please visit my artist homepage here](https://katburrr.com)**
+**[please visit my artist homepage here](http://katharinaburchin.com)**
 
 © Katharina Burchin | 2026 
 
