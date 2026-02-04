@@ -141,7 +141,7 @@ These experiences help me stay calm, organized and human-centered in technical w
 
 - **GitHub:** [github.com/katinkabu](https://github.com/katinkabu)
 - **LinkedIn:** [linkedin.com/in/katharinaburchin](https://www.linkedin.com/in/katharinaburchin)
-- **Email:** katharinaburchina@gmail.com
+- **Email:** katharinaburchina [at] gmail.com
 
 ---
 
@@ -149,7 +149,7 @@ These experiences help me stay calm, organized and human-centered in technical w
 
 If you’re curious about my artistic side:
 
-**[please visit my artist homepage here](http://katharinaburchin.com)**
+**[please visit my artist page](http://katharinaburchin.com)**
 
 © Katharina Burchin | 2026 
 
