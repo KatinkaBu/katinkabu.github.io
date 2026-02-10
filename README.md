@@ -16,7 +16,7 @@ Over the last year and a half I’ve been:
 - learning and working hands-on with **AWS, Linux basics, containerized services and CI/CD**
 - completing a **14-month full-time Software Engineering program with a focus on Cloud** (Masterschool), certificate received in Nov. 2025
 - doing a **320-hours full-time DevOps/Cloud internship** (WeBeet) with real-world infrastructure and observability tasks for a mobile housing app
-- bringing in experience from **creative projects, organizing work, documentation and support-focused roles**
+- bringing in experience from creative projects, organizing work, documentation and support-focused roles
 
 ---
 
