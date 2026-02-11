@@ -61,7 +61,7 @@ Over the last year and a half I’ve been:
 
 ## Learning Labs & Mini Projects
 
-- 🍯 **boot.dev Kubernetes course as self-study**
+- 🍯 boot.dev **Kubernetes** course as self-study
 - 🌸 **Cloud Music Diary (W.I.P.) as an after-studies project**
   - personal cloud project combining music & cloud engineering
   - GitHub Actions
