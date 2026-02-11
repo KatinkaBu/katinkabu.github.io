@@ -6,12 +6,12 @@
 
 Hi, I’m Katharina,
 
-a career changer into Cloud & DevOps with a background in art, music, production and care work.
+a career changer into Cloud & DevOps with a background in art, music, production and social work.
 
 Over the last year and a half I’ve been:
 
-- completing my AWS Certified Cloud Practitioner (CLF-C02) on Feb 2nd 2026
-- working on a simple Cloud-Music-Project to further develop my skills post studies
+- completing my AWS Certified Cloud Practitioner (CLF-C02) on Feb 2nd 2026 
+- working on a simple Cloud-Music-Project to further develop my skills post studies (still W.I.P.)
 - contributing to a self-organized study group for daily support, sharing of knowledge & resources post studies
 - learning and working hands-on with **AWS, Linux basics, containerized services and CI/CD**
 - completing a **14-month full-time Software Engineering program with a focus on Cloud** (Masterschool), certificate received in Nov. 2025
@@ -61,23 +61,24 @@ Over the last year and a half I’ve been:
 
 ## Learning Labs & Mini Projects
 
+- 🍯 **boot.dev Kubernetes course as self-study**
 - 🌸 **Cloud Music Diary (W.I.P.) as an after-studies project**
   - personal cloud project combining music & cloud engineering
   - GitHub Actions
   - documentation-first approach
   - [link to project](https://github.com/KatinkaBu/cloud-music-diary)
-- **boot.dev CI/CD course as part of the internship**
+- 🐝 **boot.dev CI/CD course as part of the internship**
   - pipelines, automation concepts, YAML-based workflows
   - [link to lab outcome](https://github.com/KatinkaBu/learn-cicd-starter)
-- **Git & GitHub workflows as part of the internship**
+- 🌷 **Git & GitHub workflows as part of the internship**
   - branches, pull requests, reviews, team collaboration
-- **AWS networking labs for private learning**
+- 🌱 **AWS networking labs for private learning**
   - VPCs, subnets, routing basics, security groups
 
 ---
 ## Certificates
 
-- AWS Certified Cloud Practitioner (CLF-C02), Feb. 2nd 2026, **Certification Badge** [see it here](https://www.credly.com/badges/423991e1-36fc-4e69-9c13-a25dae7d24d5/public_url)
+- AWS Certified Cloud Practitioner (CLF-C02), Feb. 2nd 2026, **Certification Badge** [here](https://www.credly.com/badges/423991e1-36fc-4e69-9c13-a25dae7d24d5/public_url)
 
 ---
 
@@ -105,8 +106,9 @@ Over the last year and a half I’ve been:
 ## Containers & Platform (Learning)
 
 - Containerized applications and services
-- **Kubernetes concepts (learning in progress)**:
+- Kubernetes concepts (learning in progress):
   - pods, services, deployments (labs & coursework)
+  - see "Learning Labs"
 
 ## Software & Scripting
 
@@ -125,15 +127,13 @@ Over the last year and a half I’ve been:
 ## My Transferable Skills From Previous Experience: 
 
 - **Artist & Music Video Director**  
-  Planning, organizing and executing shoots, working with equipment, editing in DaVinci Resolve and Adobe Premiere, managing timelines and budgets.
+  Planning, organizing and executing shoots, working hands-on with audio and video equipment, editing in DaVinci Resolve and Adobe Premiere, managing timelines and budgets.
 
-- **Musician & Organizer**  
-  Organizing events, coordinating people, managing logistics and costs, performing under pressure, production and composition of music, studio setup, collaboration with other artists.
+- **Musician**  
+  Production and composition of music, studio setup, collaboration with other artists, performance on stage, organizing events, managing logistics and costs.
 
 - **Personal Assistance & Care Work**  
-  High responsibility, clear communication, empathy, reliability, and structured support in stressful environments. 24/7 work-shift experience, first-aid courses. Worked with elderly and handicapped.
-
-These experiences help me stay calm, organized and human-centered in technical work.
+  High responsibility, clear communication, empathy, reliability, and structured support in stressful environments. 24/7 work-shift experience, first-aid courses. Worked with elderly and persons with disabilities.
 
 ---
 
@@ -147,7 +147,7 @@ These experiences help me stay calm, organized and human-centered in technical w
 
 ## Artistic Work
 
-If you’re curious about my artistic side:
+☀️ If you’re curious about my artistic side:
 
 **[please visit my artist page](http://katharinaburchin.com)**
 
